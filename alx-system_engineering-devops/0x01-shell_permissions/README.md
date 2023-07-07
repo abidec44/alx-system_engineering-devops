@@ -1,2 +1,2 @@
 Shell permission
-Shell basic
+Shell basics
